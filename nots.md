@@ -59,3 +59,4 @@
 59 git push -u origin main
 60 touch nots.md
 61 history
+62 git status
